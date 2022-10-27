@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "f2G7y5KEiMVgRYpOT23Yy3F1YKJ23v7B0Grtw8GWqyTfCl4cv/GqUu5u2/SZ/7JOOXkLTs/94GDnUjj55GRF8g==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\HP\\Desktop\\dotnet\\Movies\\Movies\\Movies.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package Swashbuckle.AspNetCore. No packages exist with this id in source(s): Microsoft Visual Studio Offline Packages",
+      "libraryId": "Swashbuckle.AspNetCore",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}
